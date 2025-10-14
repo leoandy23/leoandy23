@@ -39,7 +39,7 @@ I'm a Software Engineer with experience in **full-stack development, artificial 
 <p align="center">
   <i>Let's connect and build something amazing!</i>
   <br/>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/leonel-otavalo/">
+  <a href="https://www.linkedin.com/in/leonel-otavalo/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:leoandy28aa@gmail.com">
