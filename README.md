@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Leonel (Andy) Otavalo 👋</h1>
+<h1 align="center">Hi, I'm Leonel Otavalo 👋</h1>
 <h3 align="center">A passionate Full-Stack Software Engineer & AI Enthusiast from Ecuador</h3>
 
 <p align="center">
