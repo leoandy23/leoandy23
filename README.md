@@ -34,20 +34,12 @@ I'm a Software Engineer with experience in **full-stack development, artificial 
 **Cloud & DevOps:**
 `Google Cloud (GCP)` `Microsoft Azure` `Amazon Web Services (AWS)` `Terraform` `Docker` `Git` `Postman`
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andyotavalo&show_icons=true&theme=radical" alt="Andy's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andyotavalo&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 ---
 
 <p align="center">
   <i>Let's connect and build something amazing!</i>
   <br/>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/leonel-otavalo/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:leoandy28aa@gmail.com">
